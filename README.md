@@ -46,12 +46,24 @@ The top starting location is very close to the NY midtown Manhattna area and clo
 
 ### Checkout times for users
 
+<img width="986" alt="image" src="https://user-images.githubusercontent.com/22928255/205508714-16b023ab-042d-4c51-9b3b-faed54dace34.png">
+
+
 ### Checkout times for Gender
+
+<img width="986" alt="image" src="https://user-images.githubusercontent.com/22928255/205508725-20b70e26-581e-4cc7-8af9-27ab2c97b65a.png">
+
 ### Trip by weekday per hour
 
-### Trip by gender -- weekend per hour
+<img width="986" alt="image" src="https://user-images.githubusercontent.com/22928255/205509500-6d0e4e2d-90b5-482d-9a34-6deba255b99b.png">
+
+### Trip by gender -- weekday per hour
+
+<img width="986" alt="image" src="https://user-images.githubusercontent.com/22928255/205509825-1569a2ee-8fd3-4179-ac38-7afcf7155e7d.png">
+
 
 ### User Trip by gender by weekday
 
+<img width="986" alt="image" src="https://user-images.githubusercontent.com/22928255/205509840-8580962c-cf95-46df-b6c9-6a461229a1ee.png">
 
 ## Summary
