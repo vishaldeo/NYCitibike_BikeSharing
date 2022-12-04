@@ -48,12 +48,16 @@ The top starting location is very close to the NY midtown Manhattna area and clo
 
 <img width="986" alt="image" src="https://user-images.githubusercontent.com/22928255/205508714-16b023ab-042d-4c51-9b3b-faed54dace34.png">
 
+The trend shows that the users uses the bike for first ~20 mins more often. This tell the story that user took the public transport and uses the bike to drive to their work location. The Checkout time descrease with sharply after an hours and there are no spike after that. 
 
 ### Checkout times for Gender
 
 <img width="986" alt="image" src="https://user-images.githubusercontent.com/22928255/205508725-20b70e26-581e-4cc7-8af9-27ab2c97b65a.png">
 
+The trend of number of rides by gender shows that the male gender uses the bike more often than female / unkown.  
+
 ### Trip by weekday per hour
+
 
 <img width="986" alt="image" src="https://user-images.githubusercontent.com/22928255/205509500-6d0e4e2d-90b5-482d-9a34-6deba255b99b.png">
 
@@ -66,4 +70,9 @@ The top starting location is very close to the NY midtown Manhattna area and clo
 
 <img width="986" alt="image" src="https://user-images.githubusercontent.com/22928255/205509840-8580962c-cf95-46df-b6c9-6a461229a1ee.png">
 
+This heatmap trend that the subscriber uses the service more often than the customer and is male dominant. 
+
 ## Summary
+
+We can conclude that the bike ride service in NY is popular in the metropolitan neighbourhood where we have offices presense and parking issue. We have the subscribe userbase who uses the service most often and it being used by the male subscribers. The busiest hour is also the office timing around 7-9 AM in the morning and 4-6pm in the evening. 
+
