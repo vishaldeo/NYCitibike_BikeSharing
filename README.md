@@ -1,11 +1,13 @@
 # bikesharing
 
 ## Overview
-The purpose of this tableu project to analysis the NY citybike data and to demonstrate the investors how the bike-sharing services of NYC works. This  will help to make a  decision to implement in Des Moines. This project will analysized the data and will provide the report for
+The purpose of this tableu project to analysis the [NY citybike data](https://public.tableau.com/app/profile/vishal5893/viz/shared/TX66MQJ2R) and to demonstrate the investors how the bike-sharing services of NYC works. This  will help to make a  decision to implement in Des Moines. This project will analysized the data and will provide the report for
 
  * The total number of bikes are checked out for all riders and genders
  * Bike trips for all riders and genders for each hour of each day of the week
  * Bike trips for each type of user and gender for each day of the week.
+ 
+
 
 ### Delivertables
 
